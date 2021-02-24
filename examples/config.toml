@@ -1,0 +1,11 @@
+title = ""
+
+[schedule]
+when = "6pm"
+
+[exclude]
+git-repo = true
+
+[borg]
+repositories = [
+]
